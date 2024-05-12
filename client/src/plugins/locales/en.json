@@ -1,0 +1,22 @@
+{
+    "navBar": {
+        "title": "resto-name",
+        "home": "Home",
+        "menu": "MENU",
+        "contact": "CONTACT",
+        "cart": "Cart"
+    },
+    "home": {
+        "title": "Make remote work",
+        "description": "Get your team in sync, no matter your location.<br /> Streamline processes,create team rituals, and watch productivity soar."
+    },
+    "footer": {
+        "phoneNumber": "+33752591564"
+    },
+    "itemPage": {
+        "quantity": "Quantity",
+        "Preparation-Time": "Preparation Time",
+        "addToCart": "Add to cart"
+    }
+
+}
